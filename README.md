@@ -7,4 +7,4 @@
 
 ## What am I still confused about?
   + How do we connect various repositories and projects from different users?
-  + How to implement the same practice on a grander scale
+  + How to implement the same practice on a larger scale
